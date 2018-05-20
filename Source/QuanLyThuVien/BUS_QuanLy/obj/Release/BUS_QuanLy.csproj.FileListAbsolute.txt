@@ -1,0 +1,27 @@
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\BUS_QuanLy\bin\Release\BUS_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\BUS_QuanLy\bin\Release\BUS_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\BUS_QuanLy\bin\Release\DAL_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\BUS_QuanLy\bin\Release\DTO_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\BUS_QuanLy\bin\Release\DAL_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\BUS_QuanLy\bin\Release\DTO_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\BUS_QuanLy\obj\Release\BUS_QuanLy.csprojResolveAssemblyReference.cache
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\BUS_QuanLy\obj\Release\BUS_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\BUS_QuanLy\obj\Release\BUS_QuanLy.pdb
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\BUS_QuanLy\bin\Release\BUS_QuanLy.dll
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\BUS_QuanLy\bin\Release\BUS_QuanLy.pdb
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\BUS_QuanLy\bin\Release\DAL_QuanLy.dll
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\BUS_QuanLy\bin\Release\DTO_QuanLy.dll
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\BUS_QuanLy\bin\Release\DAL_QuanLy.pdb
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\BUS_QuanLy\bin\Release\DTO_QuanLy.pdb
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\BUS_QuanLy\obj\Release\BUS_QuanLy.csprojResolveAssemblyReference.cache
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\BUS_QuanLy\obj\Release\BUS_QuanLy.dll
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\BUS_QuanLy\obj\Release\BUS_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\BUS_QuanLy\bin\Release\BUS_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\BUS_QuanLy\bin\Release\BUS_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\BUS_QuanLy\bin\Release\DAL_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\BUS_QuanLy\bin\Release\DTO_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\BUS_QuanLy\bin\Release\DAL_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\BUS_QuanLy\bin\Release\DTO_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\BUS_QuanLy\obj\Release\BUS_QuanLy.csprojResolveAssemblyReference.cache
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\BUS_QuanLy\obj\Release\BUS_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\BUS_QuanLy\obj\Release\BUS_QuanLy.pdb

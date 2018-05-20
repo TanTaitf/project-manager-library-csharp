@@ -1,0 +1,89 @@
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\GUI_QuanLy.exe.config
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\GUI_QuanLy.exe
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\GUI_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\Bunifu_UI_v1.4.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\BUS_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\DAL_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\DTO_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\FlashControlV71.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\stdole.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\BUS_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\DAL_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\bin\Release\DTO_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.csprojResolveAssemblyReference.cache
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.GUI_Home.resources
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.GUI_DangNhap.resources
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.GUI_DangKy.resources
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.Properties.Resources.resources
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.csproj.GenerateResource.Cache
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.exe
+C:\Users\Windows 8.1 Ultimate\Desktop\DOAN\Animation\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.pdb
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\bin\Release\GUI_QuanLy.exe.config
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.exe
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.pdb
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\bin\Release\GUI_QuanLy.exe
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\bin\Release\GUI_QuanLy.pdb
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\bin\Release\BUS_QuanLy.dll
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\bin\Release\DAL_QuanLy.dll
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\bin\Release\DTO_QuanLy.dll
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\bin\Release\BUS_QuanLy.pdb
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\bin\Release\DAL_QuanLy.pdb
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\bin\Release\DTO_QuanLy.pdb
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.csprojResolveAssemblyReference.cache
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.GUI_Home.resources
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.GUI_DangNhap.resources
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.Properties.Resources.resources
+C:\Users\Quyet\Desktop\15_1560454_1560468_1560480_1560485\Source\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.csproj.GenerateResource.Cache
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\GUI_QuanLy.exe.config
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\GUI_QuanLy.exe
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\GUI_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\Bunifu_UI_v1.4.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\BUS_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportSource.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.Shared.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.Windows.Forms.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\DAL_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\DTO_QuanLy.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\FlashControlV71.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\ShockwaveFlashObjects.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\stdole.dll
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\BUS_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\DAL_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\bin\Release\DTO_QuanLy.pdb
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.csprojResolveAssemblyReference.cache
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.GUI_Home.resources
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.GUI_DangNhap.resources
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.Properties.Resources.resources
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.csproj.GenerateResource.Cache
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.exe
+C:\Users\Windows 8.1 Ultimate\Desktop\QL_Libary\QuanLyThuVien\GUI_QuanLy\obj\Release\GUI_QuanLy.pdb
